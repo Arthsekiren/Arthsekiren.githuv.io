@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>免費攝影技巧指南下載</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            font-size: 2em;
+            color: #3a3a3a;
+            text-align: center;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #555;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #666;
+        }
+        .cta-button {
+            display: block;
+            width: 200px;
+            padding: 15px;
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 20px auto;
+            font-size: 1.1em;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+        .form-container {
+            margin-top: 30px;
+        }
+        .form-container input {
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 10px;
+            font-size: 1em;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .form-container label {
+            font-weight: bold;
+        }
+        .testimonial {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin-top: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .testimonial p {
+            font-style: italic;
+            color: #555;
+        }
+        .testimonial span {
+            font-weight: bold;
+            color: #007BFF;
+        }
+        .privacy {
+            font-size: 0.9em;
+            text-align: center;
+            margin-top: 30px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>7天掌握5個攝影技巧，讓你的照片瞬間高級感提升10倍！</h1>
+    <h2 style="font-size: 0.75em; color: #777;">學會構圖、調色和光線運用，輕鬆拍出讓人讚嘆的照片！</h2>
+
+    <h2>為什麼要下載這份免費指南？</h2>
+    <ul>
+        <li><strong>短時間見效：</strong>只需每天花10分鐘，就能快速掌握攝影必備技能，提升照片吸引力。</li>
+        <li><strong>效果保證：</strong>7天內掌握5個構圖與光線技巧，讓你的作品輕鬆脫穎而出。</li>
+        <li><strong>適用所有設備：</strong>無論是手機還是專業相機，都能立即提升拍攝質感。</li>
+        <li><strong>簡單易學：</strong>循序漸進的教學設計，讓新手也能快速上手，從零開始提升攝影能力。</li>
+        <li><strong>專家指導：</strong>內容由專業攝影師精心設計，結合實戰經驗，幫助你避開常見誤區。</li>
+    </ul>
+
+    <h2>立即免費下載，讓你的作品脫穎而出！</h2>
+    <p>你將獲得什麼？</p>
+    <ul>
+        <li>一份完整的攝影技巧指南，涵蓋構圖、光線運用與後期調色的實用技巧。</li>
+        <li>視覺範例與操作步驟，讓學習變得簡單高效。</li>
+        <li>提升創作靈感的額外資源推薦，適合任何程度的攝影愛好者。</li>
+    </ul>
+
+    <a href="#" class="cta-button">立即下載</a>
+
+    <div class="form-container">
+        <h2>填寫以下資訊即可下載免費指南</h2>
+        <form action="#" method="POST">
+            <label for="name">姓名</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">電子郵件地址</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="experience">攝影經驗</label>
+            <select id="experience" name="experience">
+                <option value="beginner">新手</option>
+                <option value="amateur">愛好者</option>
+                <option value="professional">專業</option>
+            </select>
+
+            <button type="submit" class="cta-button">立即下載</button>
+        </form>
+    </div>
+
+    <div class="testimonial">
+        <p>「用了這些技巧後，我的照片不僅吸引了更多觀眾，還接到了商業攝影案！」</p>
+        <span>- A小姐</span>
+    </div>
+
+    <div class="privacy">
+        <p>我們重視您的隱私，絕不會將您的個人資訊分享給任何第三方。</p>
+    </div>
+</div>
+
+</body>
+</html>
